@@ -1,0 +1,20 @@
+# Compiled Java files and build output
+*.class
+/out/
+/outputs/
+/build/
+/target/
+*.tmp
+
+# Local FreshLink inventory and application data
+/.freshlink/
+/data/
+*.log
+
+# IDE and operating-system files
+/.idea/
+/.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+Desktop.ini
